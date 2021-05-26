@@ -1,0 +1,11 @@
+C:\Users\Admin\Downloads\code\OnlineShopping (11)\OnlineShopping\Shipment\bin\Debug\net5.0\Shipment.deps.json
+C:\Users\Admin\Downloads\code\OnlineShopping (11)\OnlineShopping\Shipment\bin\Debug\net5.0\Shipment.dll
+C:\Users\Admin\Downloads\code\OnlineShopping (11)\OnlineShopping\Shipment\bin\Debug\net5.0\ref\Shipment.dll
+C:\Users\Admin\Downloads\code\OnlineShopping (11)\OnlineShopping\Shipment\bin\Debug\net5.0\Shipment.pdb
+C:\Users\Admin\Downloads\code\OnlineShopping (11)\OnlineShopping\Shipment\obj\Debug\net5.0\Shipment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\code\OnlineShopping (11)\OnlineShopping\Shipment\obj\Debug\net5.0\Shipment.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\code\OnlineShopping (11)\OnlineShopping\Shipment\obj\Debug\net5.0\Shipment.AssemblyInfo.cs
+C:\Users\Admin\Downloads\code\OnlineShopping (11)\OnlineShopping\Shipment\obj\Debug\net5.0\Shipment.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\code\OnlineShopping (11)\OnlineShopping\Shipment\obj\Debug\net5.0\Shipment.dll
+C:\Users\Admin\Downloads\code\OnlineShopping (11)\OnlineShopping\Shipment\obj\Debug\net5.0\ref\Shipment.dll
+C:\Users\Admin\Downloads\code\OnlineShopping (11)\OnlineShopping\Shipment\obj\Debug\net5.0\Shipment.pdb

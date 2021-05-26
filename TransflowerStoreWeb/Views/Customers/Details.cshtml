@@ -1,0 +1,50 @@
+@using CRM;
+
+@{
+    ViewBag.Title = "Customers Details";
+}
+
+<h2>Customers List</h2>
+@{
+
+    Customer theCustomers=ViewData["customer"] as Customer;
+}
+<table style="font-family:Arial">
+    <tr>
+        <td><b>Customer :</b></td>
+        <td>@theCustomers.Id</td>
+    </tr>
+    <tr>
+        <td><b>Customer Name:</b></td>
+        <td>@theCustomers.Name</td>
+    </tr>
+    <tr>
+        <td><b>Contact Number:</b></td>
+        <td>@theCustomers.ContactNumber</td>
+    </tr>
+
+        <td><b>Email Address:</b></td>
+        <td>@theCustomers.Email</td>
+    </tr>
+
+    <tr>
+        <td><b>Location :</b></td>
+        <td>@theCustomers.Location</td>
+    </tr>
+
+    <tr>
+        <td><b>Age :</b></td>
+        <td>@theCustomers.Age</td>
+    </tr>
+
+    <tr>
+        <td>
+            @Html.ActionLink("Update", "Update", "Customers", new { id = theCustomers.Id }, "")
+        </td>
+         <td>
+            @Html.ActionLink("Delete", "Delete", "Customers", new { id = theCustomers.Id }, "")
+        </td>
+
+    </tr>
+</table>
+

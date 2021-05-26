@@ -1,0 +1,11 @@
+C:\Users\Admin\Downloads\code\OnlineShopping (11)\OnlineShopping\PaymentProcessing\bin\Debug\net5.0\PaymentProcessing.deps.json
+C:\Users\Admin\Downloads\code\OnlineShopping (11)\OnlineShopping\PaymentProcessing\bin\Debug\net5.0\PaymentProcessing.dll
+C:\Users\Admin\Downloads\code\OnlineShopping (11)\OnlineShopping\PaymentProcessing\bin\Debug\net5.0\ref\PaymentProcessing.dll
+C:\Users\Admin\Downloads\code\OnlineShopping (11)\OnlineShopping\PaymentProcessing\bin\Debug\net5.0\PaymentProcessing.pdb
+C:\Users\Admin\Downloads\code\OnlineShopping (11)\OnlineShopping\PaymentProcessing\obj\Debug\net5.0\PaymentProcessing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\code\OnlineShopping (11)\OnlineShopping\PaymentProcessing\obj\Debug\net5.0\PaymentProcessing.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\code\OnlineShopping (11)\OnlineShopping\PaymentProcessing\obj\Debug\net5.0\PaymentProcessing.AssemblyInfo.cs
+C:\Users\Admin\Downloads\code\OnlineShopping (11)\OnlineShopping\PaymentProcessing\obj\Debug\net5.0\PaymentProcessing.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\code\OnlineShopping (11)\OnlineShopping\PaymentProcessing\obj\Debug\net5.0\PaymentProcessing.dll
+C:\Users\Admin\Downloads\code\OnlineShopping (11)\OnlineShopping\PaymentProcessing\obj\Debug\net5.0\ref\PaymentProcessing.dll
+C:\Users\Admin\Downloads\code\OnlineShopping (11)\OnlineShopping\PaymentProcessing\obj\Debug\net5.0\PaymentProcessing.pdb

@@ -1,0 +1,479 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Admin\\Downloads\\code\\OnlineShopping (11)\\OnlineShopping\\TransflowerStoreWeb\\TransflowerStoreWeb.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Admin\\Downloads\\code\\OnlineShopping (11)\\OnlineShopping\\Banking\\Banking.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Admin\\Downloads\\code\\OnlineShopping (11)\\OnlineShopping\\Banking\\Banking.csproj",
+        "projectName": "Banking",
+        "projectPath": "C:\\Users\\Admin\\Downloads\\code\\OnlineShopping (11)\\OnlineShopping\\Banking\\Banking.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Admin\\Downloads\\code\\OnlineShopping (11)\\OnlineShopping\\Banking\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.0.23, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Admin\\Downloads\\code\\OnlineShopping (11)\\OnlineShopping\\Catalog\\Catalog.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Admin\\Downloads\\code\\OnlineShopping (11)\\OnlineShopping\\Catalog\\Catalog.csproj",
+        "projectName": "Catalog",
+        "projectPath": "C:\\Users\\Admin\\Downloads\\code\\OnlineShopping (11)\\OnlineShopping\\Catalog\\Catalog.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Admin\\Downloads\\code\\OnlineShopping (11)\\OnlineShopping\\Catalog\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.0.23, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Admin\\Downloads\\code\\OnlineShopping (11)\\OnlineShopping\\CRM\\CRM.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Admin\\Downloads\\code\\OnlineShopping (11)\\OnlineShopping\\CRM\\CRM.csproj",
+        "projectName": "CRM",
+        "projectPath": "C:\\Users\\Admin\\Downloads\\code\\OnlineShopping (11)\\OnlineShopping\\CRM\\CRM.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Admin\\Downloads\\code\\OnlineShopping (11)\\OnlineShopping\\CRM\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.0.23, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Admin\\Downloads\\code\\OnlineShopping (11)\\OnlineShopping\\Membership\\Membership.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Admin\\Downloads\\code\\OnlineShopping (11)\\OnlineShopping\\Membership\\Membership.csproj",
+        "projectName": "Membership",
+        "projectPath": "C:\\Users\\Admin\\Downloads\\code\\OnlineShopping (11)\\OnlineShopping\\Membership\\Membership.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Admin\\Downloads\\code\\OnlineShopping (11)\\OnlineShopping\\Membership\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.0.23, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Admin\\Downloads\\code\\OnlineShopping (11)\\OnlineShopping\\OrderProcessing\\OrderProcessing.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Admin\\Downloads\\code\\OnlineShopping (11)\\OnlineShopping\\OrderProcessing\\OrderProcessing.csproj",
+        "projectName": "OrderProcessing",
+        "projectPath": "C:\\Users\\Admin\\Downloads\\code\\OnlineShopping (11)\\OnlineShopping\\OrderProcessing\\OrderProcessing.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Admin\\Downloads\\code\\OnlineShopping (11)\\OnlineShopping\\OrderProcessing\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.0.23, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Admin\\Downloads\\code\\OnlineShopping (11)\\OnlineShopping\\PaymentProcessing\\PaymentProcessing.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Admin\\Downloads\\code\\OnlineShopping (11)\\OnlineShopping\\PaymentProcessing\\PaymentProcessing.csproj",
+        "projectName": "PaymentProcessing",
+        "projectPath": "C:\\Users\\Admin\\Downloads\\code\\OnlineShopping (11)\\OnlineShopping\\PaymentProcessing\\PaymentProcessing.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Admin\\Downloads\\code\\OnlineShopping (11)\\OnlineShopping\\PaymentProcessing\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Admin\\Downloads\\code\\OnlineShopping (11)\\OnlineShopping\\Shipment\\Shipment.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Admin\\Downloads\\code\\OnlineShopping (11)\\OnlineShopping\\Shipment\\Shipment.csproj",
+        "projectName": "Shipment",
+        "projectPath": "C:\\Users\\Admin\\Downloads\\code\\OnlineShopping (11)\\OnlineShopping\\Shipment\\Shipment.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Admin\\Downloads\\code\\OnlineShopping (11)\\OnlineShopping\\Shipment\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Admin\\Downloads\\code\\OnlineShopping (11)\\OnlineShopping\\TransflowerStoreWeb\\TransflowerStoreWeb.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Admin\\Downloads\\code\\OnlineShopping (11)\\OnlineShopping\\TransflowerStoreWeb\\TransflowerStoreWeb.csproj",
+        "projectName": "TransflowerStoreWeb",
+        "projectPath": "C:\\Users\\Admin\\Downloads\\code\\OnlineShopping (11)\\OnlineShopping\\TransflowerStoreWeb\\TransflowerStoreWeb.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Admin\\Downloads\\code\\OnlineShopping (11)\\OnlineShopping\\TransflowerStoreWeb\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Admin\\Downloads\\code\\OnlineShopping (11)\\OnlineShopping\\Banking\\Banking.csproj": {
+                "projectPath": "C:\\Users\\Admin\\Downloads\\code\\OnlineShopping (11)\\OnlineShopping\\Banking\\Banking.csproj"
+              },
+              "C:\\Users\\Admin\\Downloads\\code\\OnlineShopping (11)\\OnlineShopping\\Catalog\\Catalog.csproj": {
+                "projectPath": "C:\\Users\\Admin\\Downloads\\code\\OnlineShopping (11)\\OnlineShopping\\Catalog\\Catalog.csproj"
+              },
+              "C:\\Users\\Admin\\Downloads\\code\\OnlineShopping (11)\\OnlineShopping\\CRM\\CRM.csproj": {
+                "projectPath": "C:\\Users\\Admin\\Downloads\\code\\OnlineShopping (11)\\OnlineShopping\\CRM\\CRM.csproj"
+              },
+              "C:\\Users\\Admin\\Downloads\\code\\OnlineShopping (11)\\OnlineShopping\\Membership\\Membership.csproj": {
+                "projectPath": "C:\\Users\\Admin\\Downloads\\code\\OnlineShopping (11)\\OnlineShopping\\Membership\\Membership.csproj"
+              },
+              "C:\\Users\\Admin\\Downloads\\code\\OnlineShopping (11)\\OnlineShopping\\OrderProcessing\\OrderProcessing.csproj": {
+                "projectPath": "C:\\Users\\Admin\\Downloads\\code\\OnlineShopping (11)\\OnlineShopping\\OrderProcessing\\OrderProcessing.csproj"
+              },
+              "C:\\Users\\Admin\\Downloads\\code\\OnlineShopping (11)\\OnlineShopping\\PaymentProcessing\\PaymentProcessing.csproj": {
+                "projectPath": "C:\\Users\\Admin\\Downloads\\code\\OnlineShopping (11)\\OnlineShopping\\PaymentProcessing\\PaymentProcessing.csproj"
+              },
+              "C:\\Users\\Admin\\Downloads\\code\\OnlineShopping (11)\\OnlineShopping\\Shipment\\Shipment.csproj": {
+                "projectPath": "C:\\Users\\Admin\\Downloads\\code\\OnlineShopping (11)\\OnlineShopping\\Shipment\\Shipment.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+C:\Users\Admin\Downloads\code\OnlineShopping (11)\OnlineShopping\OrderProcessing\bin\Debug\net5.0\OrderProcessing.deps.json
+C:\Users\Admin\Downloads\code\OnlineShopping (11)\OnlineShopping\OrderProcessing\bin\Debug\net5.0\OrderProcessing.dll
+C:\Users\Admin\Downloads\code\OnlineShopping (11)\OnlineShopping\OrderProcessing\bin\Debug\net5.0\ref\OrderProcessing.dll
+C:\Users\Admin\Downloads\code\OnlineShopping (11)\OnlineShopping\OrderProcessing\bin\Debug\net5.0\OrderProcessing.pdb
+C:\Users\Admin\Downloads\code\OnlineShopping (11)\OnlineShopping\OrderProcessing\obj\Debug\net5.0\OrderProcessing.csprojAssemblyReference.cache
+C:\Users\Admin\Downloads\code\OnlineShopping (11)\OnlineShopping\OrderProcessing\obj\Debug\net5.0\OrderProcessing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\code\OnlineShopping (11)\OnlineShopping\OrderProcessing\obj\Debug\net5.0\OrderProcessing.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\code\OnlineShopping (11)\OnlineShopping\OrderProcessing\obj\Debug\net5.0\OrderProcessing.AssemblyInfo.cs
+C:\Users\Admin\Downloads\code\OnlineShopping (11)\OnlineShopping\OrderProcessing\obj\Debug\net5.0\OrderProcessing.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\code\OnlineShopping (11)\OnlineShopping\OrderProcessing\obj\Debug\net5.0\OrderProcessing.dll
+C:\Users\Admin\Downloads\code\OnlineShopping (11)\OnlineShopping\OrderProcessing\obj\Debug\net5.0\ref\OrderProcessing.dll
+C:\Users\Admin\Downloads\code\OnlineShopping (11)\OnlineShopping\OrderProcessing\obj\Debug\net5.0\OrderProcessing.pdb

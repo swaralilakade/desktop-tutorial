@@ -1,0 +1,12 @@
+C:\Users\Admin\Downloads\code\OnlineShopping (11)\OnlineShopping\CRM\bin\Debug\net5.0\CRM.deps.json
+C:\Users\Admin\Downloads\code\OnlineShopping (11)\OnlineShopping\CRM\bin\Debug\net5.0\CRM.dll
+C:\Users\Admin\Downloads\code\OnlineShopping (11)\OnlineShopping\CRM\bin\Debug\net5.0\ref\CRM.dll
+C:\Users\Admin\Downloads\code\OnlineShopping (11)\OnlineShopping\CRM\bin\Debug\net5.0\CRM.pdb
+C:\Users\Admin\Downloads\code\OnlineShopping (11)\OnlineShopping\CRM\obj\Debug\net5.0\CRM.csprojAssemblyReference.cache
+C:\Users\Admin\Downloads\code\OnlineShopping (11)\OnlineShopping\CRM\obj\Debug\net5.0\CRM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\code\OnlineShopping (11)\OnlineShopping\CRM\obj\Debug\net5.0\CRM.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\code\OnlineShopping (11)\OnlineShopping\CRM\obj\Debug\net5.0\CRM.AssemblyInfo.cs
+C:\Users\Admin\Downloads\code\OnlineShopping (11)\OnlineShopping\CRM\obj\Debug\net5.0\CRM.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\code\OnlineShopping (11)\OnlineShopping\CRM\obj\Debug\net5.0\CRM.dll
+C:\Users\Admin\Downloads\code\OnlineShopping (11)\OnlineShopping\CRM\obj\Debug\net5.0\ref\CRM.dll
+C:\Users\Admin\Downloads\code\OnlineShopping (11)\OnlineShopping\CRM\obj\Debug\net5.0\CRM.pdb
